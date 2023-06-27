@@ -1,0 +1,13 @@
+/Users/michaelkhanda/Desktop/forloop/bin/Debug/netcoreapp3.1/forloop.deps.json
+/Users/michaelkhanda/Desktop/forloop/bin/Debug/netcoreapp3.1/forloop.runtimeconfig.json
+/Users/michaelkhanda/Desktop/forloop/bin/Debug/netcoreapp3.1/forloop.runtimeconfig.dev.json
+/Users/michaelkhanda/Desktop/forloop/bin/Debug/netcoreapp3.1/forloop.dll
+/Users/michaelkhanda/Desktop/forloop/bin/Debug/netcoreapp3.1/forloop.pdb
+/Users/michaelkhanda/Desktop/forloop/obj/Debug/netcoreapp3.1/forloop.csproj.AssemblyReference.cache
+/Users/michaelkhanda/Desktop/forloop/obj/Debug/netcoreapp3.1/forloop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkhanda/Desktop/forloop/obj/Debug/netcoreapp3.1/forloop.AssemblyInfoInputs.cache
+/Users/michaelkhanda/Desktop/forloop/obj/Debug/netcoreapp3.1/forloop.AssemblyInfo.cs
+/Users/michaelkhanda/Desktop/forloop/obj/Debug/netcoreapp3.1/forloop.csproj.CoreCompileInputs.cache
+/Users/michaelkhanda/Desktop/forloop/obj/Debug/netcoreapp3.1/forloop.dll
+/Users/michaelkhanda/Desktop/forloop/obj/Debug/netcoreapp3.1/forloop.pdb
+/Users/michaelkhanda/Desktop/forloop/obj/Debug/netcoreapp3.1/forloop.genruntimeconfig.cache
